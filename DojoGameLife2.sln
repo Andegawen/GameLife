@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoGameLife2", "DojoGameLife2\DojoGameLife2.csproj", "{004BDD14-B1D6-4262-B388-48AC11E08BFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoGameLifeTests", "DojoGameLifeTests\DojoGameLifeTests.csproj", "{F671FF42-FE3F-47C0-B929-F6B83B5FDD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004BDD14-B1D6-4262-B388-48AC11E08BFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004BDD14-B1D6-4262-B388-48AC11E08BFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004BDD14-B1D6-4262-B388-48AC11E08BFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004BDD14-B1D6-4262-B388-48AC11E08BFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F671FF42-FE3F-47C0-B929-F6B83B5FDD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F671FF42-FE3F-47C0-B929-F6B83B5FDD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F671FF42-FE3F-47C0-B929-F6B83B5FDD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F671FF42-FE3F-47C0-B929-F6B83B5FDD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
